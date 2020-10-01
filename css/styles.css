@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans';
+    color: white;
+    background-color: #222;
+    margin: 20px 25px;
+}
+
+a, a:visited {
+    color: dodgerblue;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.red { color: crimson; }
+.green { color: greenyellow; }
+.yellow { color: hsl(60, 75%, 50%); }
+
+h1 {
+    text-align: center;
+}
