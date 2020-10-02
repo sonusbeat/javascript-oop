@@ -15,3 +15,15 @@
 
 ### Exercises
 1. Stop Watch
+
+## Objects
+1. Prototypes and Prototypical Inheritance
+2. Multi Level Inheritance
+3. Property Descriptors
+4. Constructor Prototypes
+5. Prototype vs Instance Members
+6. Iterating Instance and Prototype Members
+7. Avoid Extending the Built in Objects
+
+### Exercises
+1. Stop Watch Exercise
