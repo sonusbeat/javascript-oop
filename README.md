@@ -41,3 +41,17 @@
 ### Exercises
 1. Prototypical Inheritance
 2. Polymorphism
+
+## Es6 Classes
+1. ES6 Classes
+2. Hosting
+3. Static Methods
+4. The "this" keyword
+5. Private members using "Symbols"
+6. Private members using "WeakMaps"
+7. Getters and Setters
+8. Inheritance
+9. Method Overriding
+
+### Exercises
+1. Classes
