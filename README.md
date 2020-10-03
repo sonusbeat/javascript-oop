@@ -27,3 +27,17 @@
 
 ### Exercises
 1. Stop Watch Exercise
+
+## Objects
+1. Prototypical Inheritance
+2. Creating Your Own Prototypical Inheritance
+3. Calling the Super Constructor
+4. Intermediate Function Inheritance
+5. Method Overriding
+6. Polymorphism
+7. When to use Inheritance
+8. Mixins
+
+### Exercises
+1. Prototypical Inheritance
+2. Polymorphism
